@@ -30,10 +30,6 @@ const App = () => {
       <div className="crypto-nav">
         <div className="search">
           <h1 className="app-title">Cryptocurrency Price Tracker</h1>
-          <p>
-            <a href="https://ckn-portfolio.netlify.app/" target="_blank">
-            </a>
-          </p>
           <form action="">
             <input
               type="text"
