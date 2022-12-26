@@ -1,0 +1,47 @@
+.crypto-row {
+  background-color: #eeeeee;
+  padding: 1.2rem;
+
+}
+
+.crypto {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.crypto img {
+  width: 3.3rem;
+}
+
+.crypto h1 {
+  color: #001a2c;
+  font-weight: 500;
+}
+
+
+.inner-crypto {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.inner-crypto p {
+  font-size: 0.9rem;
+}
+
+.crypto-title-desc {
+  font-weight: 500;
+  color: #001a2c;
+}
+
+.crypto-description {
+  color: #001a2c;
+}
+
+.red {
+  color: red;
+}
+
+.green {
+  color: rgb(0, 177, 0);
+}
